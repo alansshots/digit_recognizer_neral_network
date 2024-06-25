@@ -1,6 +1,9 @@
 
 # Digit Recognizer Neural Network
 
+<img src="./demo.gif" alt="My Project GIF" width="500" height="500">
+
+
 Project Setup Instructions:
 
 Step 1: Set Up a New Environment
