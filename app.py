@@ -38,7 +38,7 @@ W1, b1, W2, b2 = load_params('./neural_network/trained_data')
 
 # Streamlit app
 st.title('Hand-Drawn Digit Recognizer Using MNIST Dataset')
-st.markdown('Draw a digit and click predict to see result.')
+st.markdown('Draw a digit and click "predict" to see result.')
 
 SIZE = 300
 
