@@ -1,7 +1,7 @@
 
 # Digit Recognizer Neural Network
 
-<img src="./demo.gif" alt="My Project GIF" width="500" height="500">
+<img src="./demo.gif" alt="My Project GIF" width="700" height="400">
 
 
 Project Setup Instructions:
