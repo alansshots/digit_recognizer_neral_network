@@ -28,8 +28,12 @@ Install the necessary dependencies by running:
 `pip install numpy pandas matplotlib streamlit opencv-python streamlit-drawable-canvas`
 
 
+Step 4: Train the Model
+Train the model by running:
 
-Step 4: Run the Web UI
+`python digit_recognizer_NN.py`
+
+Step 5: Run the Web UI
 Launch the web UI with the following command:
 
 `streamlit run app.py`
